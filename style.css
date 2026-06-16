@@ -35,8 +35,12 @@ body{
     border: none;
     border-radius: 100px;
 }
-@media (orientation: landscape) {
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+/* @media (orientation: landscape) {
   .container-filho {
     max-width: 500px;
   }
-}
+} */
